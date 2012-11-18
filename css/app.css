@@ -7,3 +7,5 @@
 /* @import "bootstrap-responsive.css"; */
 
 /* Your styles here */
+.row-fluid {text-align: center; }
+.result { font-weight: bold;}

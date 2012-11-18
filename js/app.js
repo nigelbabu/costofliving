@@ -73,18 +73,15 @@ define("app", function(require) {
             var to_country_data = [];
             $.each(countries['countries'], function(key, country) {
                 if(country['id'] === Number(fromcountry.attr('value'))) {
-                    console.log('from country found!');
                     from_country_data = country;
                 }
                 if(country['id'] === Number(tocountry.attr('value'))) {
-                    console.log('to country found!');
                     to_country_data = country;
                 }
             });
             var equivalent_salary = (Number(salary_num) / from_country_data['ppp']) * to_country_data['ppp'];
             console.log("In " + to_country_data['name'] + ", you should get " + equivalent_salary + " in local currency.");
-            $('#resultDiv').html("In " + to_country_data['name'] + ", you should get " + Math.round(equivalent_salary * 100)/100 + " in local currency.");
-            $('#displayResult').removeClass('hidden');
+            $('.result').html("In " + to_country_data['name'] + ", you should get " + Math.round(equivalent_salary * 100)/100 + " in local currency.");
         }
     });
 
