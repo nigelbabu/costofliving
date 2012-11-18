@@ -38,15 +38,25 @@
          Use this for self-hosted apps (not in a marketplace) or for
          test installing your app. -->
 
-    <div class="install-error"></div>
-    <div class="install-ios-msg">
-      To install, press the forward arrow in Safari and touch "Add to
-      Home Screen"
-    </div>
-
     <!-- Add your site or application content here -->
+    <div class="container">
+      <div class="row-fluid">
+        <div class="span12">
+          <form method="POST" id="salaryform">
+            <p><label for="from_country">Origin country</label></p>
+            <p><select id="from_country" name="from_country"></select></p>
 
+            <p><label for="salary">Amount</label></p>
+            <p><input id="salary" name="salary" placeholder="For Example, 100000" type="text" value=""></p>
 
+            <p><label for="to_country">Destination country</label></p>
+            <p><select id="to_country" name="to_country"></select></p>
+
+            <input type="submit" class="medium button" value="Calculate" />
+          </form>
+        </div>
+      </div>
+    </div>
 
 
 
