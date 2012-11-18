@@ -35,6 +35,10 @@ define("app", function(require) {
     // require('bootstrap/dropdown');
     // require('bootstrap/alert');
 
+    var fromcountry = $('#from_country');
+    var tocountry = $('#to_country');
+    var salary = $('#salary');
+
 
     // Get the country data from localstorage or endpoint
     var countries_string = localStorage.getItem('country');
@@ -48,14 +52,41 @@ define("app", function(require) {
             countries = data;
         });
     }
-    var fromcountry = $('#from_country');
-    var tocountry = $('#to_country');
 
     $.each(countries['countries'], function(key, country) {
         fromcountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
         tocountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
     });
 
+    $('form').submit(function (event) {
+        event.preventDefault();
+        if (salary.attr('value') === '') {
+            salary.addClass('error');
+            $('#error_salary').removeClass('hidden');
+            $('#error_salary').addClass('error');
+        } else {
+            $('#error_salary').removeClass('error');
+            $('#error_salary').addClass('hidden');
+            salary.removeClass('error');
+            var salary_num = salary.attr('value');
+            var from_country_data = [];
+            var to_country_data = [];
+            $.each(countries['countries'], function(key, country) {
+                if(country['id'] === Number(fromcountry.attr('value'))) {
+                    console.log('from country found!');
+                    from_country_data = country;
+                }
+                if(country['id'] === Number(tocountry.attr('value'))) {
+                    console.log('to country found!');
+                    to_country_data = country;
+                }
+            });
+            var equivalent_salary = (Number(salary_num) / from_country_data['ppp']) * to_country_data['ppp'];
+            console.log("In " + to_country_data['name'] + ", you should get " + equivalent_salary + " in local currency.");
+            $('#resultDiv').html("In " + to_country_data['name'] + ", you should get " + Math.round(equivalent_salary * 100)/100 + " in local currency.");
+            $('#displayResult').removeClass('hidden');
+        }
+    });
 
 
     // Hook up the installation button, feel free to customize how
