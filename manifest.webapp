@@ -1,7 +1,7 @@
 {
   "version": "0.1",
-  "name": "My App",
-  "description": "Your new awesome Open Web App",
+  "name": "Cost of Living",
+  "description": "Cost of Living calculator for most of the world!",
   "launch_path": "/",
   "icons": {
     "16": "/img/icons/mortar-16.png",
@@ -9,24 +9,10 @@
     "128": "/img/icons/mortar-128.png"
   },
   "developer": {
-    "name": "Your Name",
-    "url": "http://yourawesomeapp.com"
+    "name": "Nigel Babu",
+    "url": "http://nigelb.me"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/cache.manifest",
-  "locales": {
-    "es": {
-      "description": "Su nueva aplicación impresionante Open Web",
-      "developer": {
-        "url": "http://yourawesomeapp.com"
-      }
-    },
-    "it": {
-      "description": "Il vostro nuovo fantastico Open Web App",
-      "developer": {
-        "url": "http://yourawesomeapp.com"
-      }
-    }
-  },
   "default_locale": "en"
 }
