@@ -36,16 +36,24 @@ define("app", function(require) {
     // require('bootstrap/alert');
 
 
-    // START HERE: Put your js code here
-    $.getJSON('/country.json', function(data) {
-        var fromcountry = $('#from_country');
-        var tocountry = $('#to_country');
-
-        $.each(data['countries'], function(key, country) {
-            console.log(country);
-            fromcountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
-            tocountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
+    // Get the country data from localstorage or endpoint
+    var countries_string = localStorage.getItem('country');
+    var countries = null;
+    if (countries_string) {
+        countries = JSON.parse(countries_string);
+    }
+    else {
+        $.getJSON('/country.json', function(data) {
+            localStorage.setItem('country', JSON.stringify(data));
+            countries = data;
         });
+    }
+    var fromcountry = $('#from_country');
+    var tocountry = $('#to_country');
+
+    $.each(countries['countries'], function(key, country) {
+        fromcountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
+        tocountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
     });
 
 
