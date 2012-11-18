@@ -37,8 +37,16 @@ define("app", function(require) {
 
 
     // START HERE: Put your js code here
+    $.getJSON('/country.json', function(data) {
+        var fromcountry = $('#from_country');
+        var tocountry = $('#to_country');
 
-    var country = $.getJSON('/country.json');
+        $.each(data['countries'], function(key, country) {
+            console.log(country);
+            fromcountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
+            tocountry.append('<option value="' + country['id'] + '">' + country['name'] + '</option>');
+        });
+    });
 
 
 
