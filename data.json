@@ -1,0 +1,1292 @@
+{
+  "countries": [
+    {
+      "code3": "DZA", 
+      "code2": null, 
+      "ppp": "42.9628870098", 
+      "id": 1, 
+      "name": "Algeria"
+    }, 
+    {
+      "code3": "AGO", 
+      "code2": null, 
+      "ppp": "129.3468155154", 
+      "id": 2, 
+      "name": "Angola"
+    }, 
+    {
+      "code3": "EGY", 
+      "code2": null, 
+      "ppp": "3.3456672170", 
+      "id": 3, 
+      "name": "Egypt, Arab Rep."
+    }, 
+    {
+      "code3": "BGD", 
+      "code2": null, 
+      "ppp": "35.4334543237", 
+      "id": 4, 
+      "name": "Bangladesh"
+    }, 
+    {
+      "code3": "NER", 
+      "code2": null, 
+      "ppp": "279.8823761359", 
+      "id": 5, 
+      "name": "Niger"
+    }, 
+    {
+      "code3": "QAT", 
+      "code2": null, 
+      "ppp": "4.3770983693", 
+      "id": 6, 
+      "name": "Qatar"
+    }, 
+    {
+      "code3": "NAM", 
+      "code2": null, 
+      "ppp": "6.4938237974", 
+      "id": 7, 
+      "name": "Namibia"
+    }, 
+    {
+      "code3": "BGR", 
+      "code2": null, 
+      "ppp": "0.8136230441", 
+      "id": 8, 
+      "name": "Bulgaria"
+    }, 
+    {
+      "code3": "BOL", 
+      "code2": null, 
+      "ppp": "3.3555436036", 
+      "id": 9, 
+      "name": "Bolivia"
+    }, 
+    {
+      "code3": "GHA", 
+      "code2": null, 
+      "ppp": "0.7982554678", 
+      "id": 10, 
+      "name": "Ghana"
+    }, 
+    {
+      "code3": "PAK", 
+      "code2": null, 
+      "ppp": "36.3810467551", 
+      "id": 11, 
+      "name": "Pakistan"
+    }, 
+    {
+      "code3": "CPV", 
+      "code2": null, 
+      "ppp": "85.8690954640", 
+      "id": 12, 
+      "name": "Cape Verde"
+    }, 
+    {
+      "code3": "JOR", 
+      "code2": null, 
+      "ppp": "0.5997932188", 
+      "id": 13, 
+      "name": "Jordan"
+    }, 
+    {
+      "code3": "LBR", 
+      "code2": null, 
+      "ppp": "40.0933580546", 
+      "id": 14, 
+      "name": "Liberia"
+    }, 
+    {
+      "code3": "LBY", 
+      "code2": null, 
+      "ppp": "0.9503581911", 
+      "id": 15, 
+      "name": "Libya"
+    }, 
+    {
+      "code3": "MYS", 
+      "code2": null, 
+      "ppp": "2.1595338881", 
+      "id": 16, 
+      "name": "Malaysia"
+    }, 
+    {
+      "code3": "PSE", 
+      "code2": null, 
+      "ppp": "2.3158649432", 
+      "id": 17, 
+      "name": "West Bank and Gaza"
+    }, 
+    {
+      "code3": "TZA", 
+      "code2": null, 
+      "ppp": "711.5971964148", 
+      "id": 18, 
+      "name": "Tanzania"
+    }, 
+    {
+      "code3": "BWA", 
+      "code2": null, 
+      "ppp": "4.9763848964", 
+      "id": 19, 
+      "name": "Botswana"
+    }, 
+    {
+      "code3": "KHM", 
+      "code2": null, 
+      "ppp": "2182.9942946456", 
+      "id": 20, 
+      "name": "Cambodia"
+    }, 
+    {
+      "code3": "PRY", 
+      "code2": null, 
+      "ppp": "2802.6543753258", 
+      "id": 21, 
+      "name": "Paraguay"
+    }, 
+    {
+      "code3": "HKG", 
+      "code2": null, 
+      "ppp": "7.3909675553", 
+      "id": 22, 
+      "name": "Hong Kong SAR, China"
+    }, 
+    {
+      "code3": "SAU", 
+      "code2": null, 
+      "ppp": "3.4260179123", 
+      "id": 23, 
+      "name": "Saudi Arabia"
+    }, 
+    {
+      "code3": "LBN", 
+      "code2": null, 
+      "ppp": "1107.1231613088", 
+      "id": 24, 
+      "name": "Lebanon"
+    }, 
+    {
+      "code3": "SVN", 
+      "code2": null, 
+      "ppp": "0.6916664440", 
+      "id": 25, 
+      "name": "Slovenia"
+    }, 
+    {
+      "code3": "BFA", 
+      "code2": null, 
+      "ppp": "248.8049777805", 
+      "id": 26, 
+      "name": "Burkina Faso"
+    }, 
+    {
+      "code3": "SVK", 
+      "code2": null, 
+      "ppp": "0.5860000000", 
+      "id": 27, 
+      "name": "Slovak Republic"
+    }, 
+    {
+      "code3": "MRT", 
+      "code2": null, 
+      "ppp": "153.2200116222", 
+      "id": 28, 
+      "name": "Mauritania"
+    }, 
+    {
+      "code3": "HRV", 
+      "code2": null, 
+      "ppp": "4.4829201799", 
+      "id": 29, 
+      "name": "Croatia"
+    }, 
+    {
+      "code3": "CHL", 
+      "code2": null, 
+      "ppp": "359.8738393000", 
+      "id": 30, 
+      "name": "Chile"
+    }, 
+    {
+      "code3": "CHN", 
+      "code2": null, 
+      "ppp": "4.3172237657", 
+      "id": 31, 
+      "name": "China"
+    }, 
+    {
+      "code3": "KNA", 
+      "code2": null, 
+      "ppp": "2.4339862922", 
+      "id": 32, 
+      "name": "St. Kitts and Nevis"
+    }, 
+    {
+      "code3": "JAM", 
+      "code2": null, 
+      "ppp": "72.3368323521", 
+      "id": 33, 
+      "name": "Jamaica"
+    }, 
+    {
+      "code3": "DJI", 
+      "code2": null, 
+      "ppp": "125.5809247150", 
+      "id": 34, 
+      "name": "Djibouti"
+    }, 
+    {
+      "code3": "GIN", 
+      "code2": null, 
+      "ppp": "3690.7638800219", 
+      "id": 35, 
+      "name": "Guinea"
+    }, 
+    {
+      "code3": "FIN", 
+      "code2": null, 
+      "ppp": "1.0095260880", 
+      "id": 36, 
+      "name": "Finland"
+    }, 
+    {
+      "code3": "URY", 
+      "code2": null, 
+      "ppp": "20.3675605895", 
+      "id": 37, 
+      "name": "Uruguay"
+    }, 
+    {
+      "code3": "THA", 
+      "code2": null, 
+      "ppp": "18.1868829815", 
+      "id": 38, 
+      "name": "Thailand"
+    }, 
+    {
+      "code3": "SYC", 
+      "code2": null, 
+      "ppp": "7.4050371734", 
+      "id": 39, 
+      "name": "Seychelles"
+    }, 
+    {
+      "code3": "NPL", 
+      "code2": null, 
+      "ppp": "39.1062604551", 
+      "id": 40, 
+      "name": "Nepal"
+    }, 
+    {
+      "code3": "LAO", 
+      "code2": null, 
+      "ppp": "4451.4715438186", 
+      "id": 41, 
+      "name": "Lao PDR"
+    }, 
+    {
+      "code3": "YEM", 
+      "code2": null, 
+      "ppp": "153.4564938356", 
+      "id": 42, 
+      "name": "Yemen, Rep."
+    }, 
+    {
+      "code3": "PHL", 
+      "code2": null, 
+      "ppp": "27.9233271682", 
+      "id": 43, 
+      "name": "Philippines"
+    }, 
+    {
+      "code3": "ZAF", 
+      "code2": null, 
+      "ppp": "5.8186247469", 
+      "id": 44, 
+      "name": "South Africa"
+    }, 
+    {
+      "code3": "KIR", 
+      "code2": null, 
+      "ppp": "0.6780236000", 
+      "id": 45, 
+      "name": "Kiribati"
+    }, 
+    {
+      "code3": "ROU", 
+      "code2": null, 
+      "ppp": "2.0675030405", 
+      "id": 46, 
+      "name": "Romania"
+    }, 
+    {
+      "code3": "SYR", 
+      "code2": null, 
+      "ppp": "31.8756778783", 
+      "id": 47, 
+      "name": "Syrian Arab Republic"
+    }, 
+    {
+      "code3": "MAC", 
+      "code2": null, 
+      "ppp": "7.4076516085", 
+      "id": 48, 
+      "name": "Macao SAR, China"
+    }, 
+    {
+      "code3": "NIC", 
+      "code2": null, 
+      "ppp": "10.8813114280", 
+      "id": 49, 
+      "name": "Nicaragua"
+    }, 
+    {
+      "code3": "MLT", 
+      "code2": null, 
+      "ppp": "0.6363373683", 
+      "id": 50, 
+      "name": "Malta"
+    }, 
+    {
+      "code3": "KAZ", 
+      "code2": null, 
+      "ppp": "98.9815345053", 
+      "id": 51, 
+      "name": "Kazakhstan"
+    }, 
+    {
+      "code3": "SUR", 
+      "code2": null, 
+      "ppp": "2.7197457233", 
+      "id": 52, 
+      "name": "Suriname"
+    }, 
+    {
+      "code3": "DMA", 
+      "code2": null, 
+      "ppp": "1.8588588483", 
+      "id": 53, 
+      "name": "Dominica"
+    }, 
+    {
+      "code3": "BEN", 
+      "code2": null, 
+      "ppp": "291.0609178916", 
+      "id": 54, 
+      "name": "Benin"
+    }, 
+    {
+      "code3": "NGA", 
+      "code2": null, 
+      "ppp": "122.0773807875", 
+      "id": 55, 
+      "name": "Nigeria"
+    }, 
+    {
+      "code3": "BEL", 
+      "code2": null, 
+      "ppp": "0.9094016090", 
+      "id": 56, 
+      "name": "Belgium"
+    }, 
+    {
+      "code3": "TGO", 
+      "code2": null, 
+      "ppp": "295.5821675323", 
+      "id": 57, 
+      "name": "Togo"
+    }, 
+    {
+      "code3": "DEU", 
+      "code2": null, 
+      "ppp": "0.8517383180", 
+      "id": 58, 
+      "name": "Germany"
+    }, 
+    {
+      "code3": "LKA", 
+      "code2": null, 
+      "ppp": "63.6844547668", 
+      "id": 59, 
+      "name": "Sri Lanka"
+    }, 
+    {
+      "code3": "GBR", 
+      "code2": null, 
+      "ppp": "0.7019983970", 
+      "id": 60, 
+      "name": "United Kingdom"
+    }, 
+    {
+      "code3": "GUY", 
+      "code2": null, 
+      "ppp": "130.3031095631", 
+      "id": 61, 
+      "name": "Guyana"
+    }, 
+    {
+      "code3": "CRI", 
+      "code2": null, 
+      "ppp": "400.2074827639", 
+      "id": 62, 
+      "name": "Costa Rica"
+    }, 
+    {
+      "code3": "CMR", 
+      "code2": null, 
+      "ppp": "306.9375980575", 
+      "id": 63, 
+      "name": "Cameroon"
+    }, 
+    {
+      "code3": "MAR", 
+      "code2": null, 
+      "ppp": "5.3829161580", 
+      "id": 64, 
+      "name": "Morocco"
+    }, 
+    {
+      "code3": "LSO", 
+      "code2": null, 
+      "ppp": "4.3992615420", 
+      "id": 65, 
+      "name": "Lesotho"
+    }, 
+    {
+      "code3": "HUN", 
+      "code2": null, 
+      "ppp": "146.1069840000", 
+      "id": 66, 
+      "name": "Hungary"
+    }, 
+    {
+      "code3": "TKM", 
+      "code2": null, 
+      "ppp": "0.9537692000", 
+      "id": 67, 
+      "name": "Turkmenistan"
+    }, 
+    {
+      "code3": "TTO", 
+      "code2": null, 
+      "ppp": "6.5193138800", 
+      "id": 68, 
+      "name": "Trinidad and Tobago"
+    }, 
+    {
+      "code3": "NLD", 
+      "code2": null, 
+      "ppp": "0.8786712780", 
+      "id": 69, 
+      "name": "Netherlands"
+    }, 
+    {
+      "code3": "TCD", 
+      "code2": null, 
+      "ppp": "315.8659475761", 
+      "id": 70, 
+      "name": "Chad"
+    }, 
+    {
+      "code3": "GEO", 
+      "code2": null, 
+      "ppp": "1.0567003806", 
+      "id": 71, 
+      "name": "Georgia"
+    }, 
+    {
+      "code3": "MNE", 
+      "code2": null, 
+      "ppp": "0.4836458172", 
+      "id": 72, 
+      "name": "Montenegro"
+    }, 
+    {
+      "code3": "MNG", 
+      "code2": null, 
+      "ppp": "833.2547342735", 
+      "id": 73, 
+      "name": "Mongolia"
+    }, 
+    {
+      "code3": "BLZ", 
+      "code2": null, 
+      "ppp": "1.4853522663", 
+      "id": 74, 
+      "name": "Belize"
+    }, 
+    {
+      "code3": "MMR", 
+      "code2": null, 
+      "ppp": "545.2964405440", 
+      "id": 75, 
+      "name": "Myanmar"
+    }, 
+    {
+      "code3": "AFG", 
+      "code2": null, 
+      "ppp": "23.2104499641", 
+      "id": 76, 
+      "name": "Afghanistan"
+    }, 
+    {
+      "code3": "BDI", 
+      "code2": null, 
+      "ppp": "695.2309970185", 
+      "id": 77, 
+      "name": "Burundi"
+    }, 
+    {
+      "code3": "BLR", 
+      "code2": null, 
+      "ppp": "1638.7203863346", 
+      "id": 78, 
+      "name": "Belarus"
+    }, 
+    {
+      "code3": "GRD", 
+      "code2": null, 
+      "ppp": "2.2043952501", 
+      "id": 79, 
+      "name": "Grenada"
+    }, 
+    {
+      "code3": "GRC", 
+      "code2": null, 
+      "ppp": "0.7766588490", 
+      "id": 80, 
+      "name": "Greece"
+    }, 
+    {
+      "code3": "MOZ", 
+      "code2": null, 
+      "ppp": "17.5144622564", 
+      "id": 81, 
+      "name": "Mozambique"
+    }, 
+    {
+      "code3": "TJK", 
+      "code2": null, 
+      "ppp": "1.5369581396", 
+      "id": 82, 
+      "name": "Tajikistan"
+    }, 
+    {
+      "code3": "HTI", 
+      "code2": null, 
+      "ppp": "27.3053293816", 
+      "id": 83, 
+      "name": "Haiti"
+    }, 
+    {
+      "code3": "MEX", 
+      "code2": null, 
+      "ppp": "8.8267506730", 
+      "id": 84, 
+      "name": "Mexico"
+    }, 
+    {
+      "code3": "LCA", 
+      "code2": null, 
+      "ppp": "1.9439862836", 
+      "id": 85, 
+      "name": "St. Lucia"
+    }, 
+    {
+      "code3": "IND", 
+      "code2": null, 
+      "ppp": "22.3992768978", 
+      "id": 86, 
+      "name": "India"
+    }, 
+    {
+      "code3": "LVA", 
+      "code2": null, 
+      "ppp": "0.4274583105", 
+      "id": 87, 
+      "name": "Latvia"
+    }, 
+    {
+      "code3": "BTN", 
+      "code2": null, 
+      "ppp": "23.3135672777", 
+      "id": 88, 
+      "name": "Bhutan"
+    }, 
+    {
+      "code3": "VCT", 
+      "code2": null, 
+      "ppp": "1.9886869222", 
+      "id": 89, 
+      "name": "St. Vincent and the Grenadines"
+    }, 
+    {
+      "code3": "VNM", 
+      "code2": null, 
+      "ppp": "10178.5713901450", 
+      "id": 90, 
+      "name": "Vietnam"
+    }, 
+    {
+      "code3": "NOR", 
+      "code2": null, 
+      "ppp": "9.7221558170", 
+      "id": 91, 
+      "name": "Norway"
+    }, 
+    {
+      "code3": "CZE", 
+      "code2": null, 
+      "ppp": "15.5369666800", 
+      "id": 92, 
+      "name": "Czech Republic"
+    }, 
+    {
+      "code3": "ATG", 
+      "code2": null, 
+      "ppp": "2.0703422698", 
+      "id": 93, 
+      "name": "Antigua and Barbuda"
+    }, 
+    {
+      "code3": "FJI", 
+      "code2": null, 
+      "ppp": "1.8469763883", 
+      "id": 94, 
+      "name": "Fiji"
+    }, 
+    {
+      "code3": "HND", 
+      "code2": null, 
+      "ppp": "12.4418061136", 
+      "id": 95, 
+      "name": "Honduras"
+    }, 
+    {
+      "code3": "MUS", 
+      "code2": null, 
+      "ppp": "22.4976564827", 
+      "id": 96, 
+      "name": "Mauritius"
+    }, 
+    {
+      "code3": "DOM", 
+      "code2": null, 
+      "ppp": "26.1719496972", 
+      "id": 97, 
+      "name": "Dominican Republic"
+    }, 
+    {
+      "code3": "LUX", 
+      "code2": null, 
+      "ppp": "0.9840702040", 
+      "id": 98, 
+      "name": "Luxembourg"
+    }, 
+    {
+      "code3": "ISR", 
+      "code2": null, 
+      "ppp": "4.4742182700", 
+      "id": 99, 
+      "name": "Israel"
+    }, 
+    {
+      "code3": "FSM", 
+      "code2": null, 
+      "ppp": "0.6581687000", 
+      "id": 100, 
+      "name": "Micronesia, Fed. Sts."
+    }, 
+    {
+      "code3": "PER", 
+      "code2": null, 
+      "ppp": "1.7030699217", 
+      "id": 101, 
+      "name": "Peru"
+    }, 
+    {
+      "code3": "IDN", 
+      "code2": null, 
+      "ppp": "5583.7599280424", 
+      "id": 102, 
+      "name": "Indonesia"
+    }, 
+    {
+      "code3": "VUT", 
+      "code2": null, 
+      "ppp": "72.3966630026", 
+      "id": 103, 
+      "name": "Vanuatu"
+    }, 
+    {
+      "code3": "MKD", 
+      "code2": null, 
+      "ppp": "22.6798788700", 
+      "id": 104, 
+      "name": "Macedonia, FYR"
+    }, 
+    {
+      "code3": "COD", 
+      "code2": null, 
+      "ppp": "444.8434035058", 
+      "id": 105, 
+      "name": "Congo, Dem. Rep."
+    }, 
+    {
+      "code3": "COG", 
+      "code2": null, 
+      "ppp": "431.0656295938", 
+      "id": 106, 
+      "name": "Congo, Rep."
+    }, 
+    {
+      "code3": "ISL", 
+      "code2": null, 
+      "ppp": "144.9176257000", 
+      "id": 107, 
+      "name": "Iceland"
+    }, 
+    {
+      "code3": "ETH", 
+      "code2": null, 
+      "ppp": "7.0964046162", 
+      "id": 108, 
+      "name": "Ethiopia"
+    }, 
+    {
+      "code3": "COM", 
+      "code2": null, 
+      "ppp": "308.1663035759", 
+      "id": 109, 
+      "name": "Comoros"
+    }, 
+    {
+      "code3": "COL", 
+      "code2": null, 
+      "ppp": "1343.0943396772", 
+      "id": 110, 
+      "name": "Colombia"
+    }, 
+    {
+      "code3": "PRT", 
+      "code2": null, 
+      "ppp": "0.7197908040", 
+      "id": 111, 
+      "name": "Portugal"
+    }, 
+    {
+      "code3": "MDA", 
+      "code2": null, 
+      "ppp": "6.9180460191", 
+      "id": 112, 
+      "name": "Moldova"
+    }, 
+    {
+      "code3": "STP", 
+      "code2": null, 
+      "ppp": "16073.7659977041", 
+      "id": 113, 
+      "name": "Sao Tome and Principe"
+    }, 
+    {
+      "code3": "MDG", 
+      "code2": null, 
+      "ppp": "1142.0689540693", 
+      "id": 114, 
+      "name": "Madagascar"
+    }, 
+    {
+      "code3": "ECU", 
+      "code2": null, 
+      "ppp": "0.5651238388", 
+      "id": 115, 
+      "name": "Ecuador"
+    }, 
+    {
+      "code3": "SEN", 
+      "code2": null, 
+      "ppp": "306.6260135212", 
+      "id": 116, 
+      "name": "Senegal"
+    }, 
+    {
+      "code3": "MDV", 
+      "code2": null, 
+      "ppp": "11.8443009344", 
+      "id": 117, 
+      "name": "Maldives"
+    }, 
+    {
+      "code3": "SRB", 
+      "code2": null, 
+      "ppp": "47.1509145968", 
+      "id": 118, 
+      "name": "Serbia"
+    }, 
+    {
+      "code3": "FRA", 
+      "code2": null, 
+      "ppp": "0.9052461100", 
+      "id": 119, 
+      "name": "France"
+    }, 
+    {
+      "code3": "LTU", 
+      "code2": null, 
+      "ppp": "1.8489058304", 
+      "id": 120, 
+      "name": "Lithuania"
+    }, 
+    {
+      "code3": "RWA", 
+      "code2": null, 
+      "ppp": "333.7091480893", 
+      "id": 121, 
+      "name": "Rwanda"
+    }, 
+    {
+      "code3": "ZMB", 
+      "code2": null, 
+      "ppp": "4230.6976472675", 
+      "id": 122, 
+      "name": "Zambia"
+    }, 
+    {
+      "code3": "GMB", 
+      "code2": null, 
+      "ppp": "11.6109250745", 
+      "id": 123, 
+      "name": "Gambia, The"
+    }, 
+    {
+      "code3": "GTM", 
+      "code2": null, 
+      "ppp": "5.6144759557", 
+      "id": 124, 
+      "name": "Guatemala"
+    }, 
+    {
+      "code3": "DNK", 
+      "code2": null, 
+      "ppp": "8.6552977440", 
+      "id": 125, 
+      "name": "Denmark"
+    }, 
+    {
+      "code3": "UKR", 
+      "code2": null, 
+      "ppp": "3.1295634668", 
+      "id": 126, 
+      "name": "Ukraine"
+    }, 
+    {
+      "code3": "AUS", 
+      "code2": null, 
+      "ppp": "1.5544594500", 
+      "id": 127, 
+      "name": "Australia"
+    }, 
+    {
+      "code3": "AUT", 
+      "code2": null, 
+      "ppp": "0.8677426950", 
+      "id": 128, 
+      "name": "Austria"
+    }, 
+    {
+      "code3": "VEN", 
+      "code2": null, 
+      "ppp": "1.2511222308", 
+      "id": 129, 
+      "name": "Venezuela, RB"
+    }, 
+    {
+      "code3": "PLW", 
+      "code2": null, 
+      "ppp": "0.6793866406", 
+      "id": 130, 
+      "name": "Palau"
+    }, 
+    {
+      "code3": "KEN", 
+      "code2": null, 
+      "ppp": "58.2684954839", 
+      "id": 131, 
+      "name": "Kenya"
+    }, 
+    {
+      "code3": "TUR", 
+      "code2": null, 
+      "ppp": "1.1632773560", 
+      "id": 132, 
+      "name": "Turkey"
+    }, 
+    {
+      "code3": "ALB", 
+      "code2": null, 
+      "ppp": "58.5984344519", 
+      "id": 133, 
+      "name": "Albania"
+    }, 
+    {
+      "code3": "OMN", 
+      "code2": null, 
+      "ppp": "0.3393574182", 
+      "id": 134, 
+      "name": "Oman"
+    }, 
+    {
+      "code3": "ITA", 
+      "code2": null, 
+      "ppp": "0.8456961480", 
+      "id": 135, 
+      "name": "Italy"
+    }, 
+    {
+      "code3": "BRN", 
+      "code2": null, 
+      "ppp": "1.0008095079", 
+      "id": 136, 
+      "name": "Brunei Darussalam"
+    }, 
+    {
+      "code3": "TUN", 
+      "code2": null, 
+      "ppp": "0.7674316703", 
+      "id": 137, 
+      "name": "Tunisia"
+    }, 
+    {
+      "code3": "RUS", 
+      "code2": null, 
+      "ppp": "17.4270623100", 
+      "id": 138, 
+      "name": "Russian Federation"
+    }, 
+    {
+      "code3": "BRB", 
+      "code2": null, 
+      "ppp": "1.7991614554", 
+      "id": 139, 
+      "name": "Barbados"
+    }, 
+    {
+      "code3": "BRA", 
+      "code2": null, 
+      "ppp": "1.8284893713", 
+      "id": 140, 
+      "name": "Brazil"
+    }, 
+    {
+      "code3": "CIV", 
+      "code2": null, 
+      "ppp": "338.3123435080", 
+      "id": 141, 
+      "name": "Cote d'Ivoire"
+    }, 
+    {
+      "code3": "TLS", 
+      "code2": null, 
+      "ppp": "0.6494077451", 
+      "id": 142, 
+      "name": "Timor-Leste"
+    }, 
+    {
+      "code3": "GNQ", 
+      "code2": null, 
+      "ppp": "522.8495267174", 
+      "id": 143, 
+      "name": "Equatorial Guinea"
+    }, 
+    {
+      "code3": "USA", 
+      "code2": null, 
+      "ppp": "1.0000000000", 
+      "id": 144, 
+      "name": "United States"
+    }, 
+    {
+      "code3": "WSM", 
+      "code2": null, 
+      "ppp": "2.2405061588", 
+      "id": 145, 
+      "name": "Samoa"
+    }, 
+    {
+      "code3": "AZE", 
+      "code2": null, 
+      "ppp": "0.5405199461", 
+      "id": 146, 
+      "name": "Azerbaijan"
+    }, 
+    {
+      "code3": "GNB", 
+      "code2": null, 
+      "ppp": "307.9803536524", 
+      "id": 147, 
+      "name": "Guinea-Bissau"
+    }, 
+    {
+      "code3": "SWZ", 
+      "code2": null, 
+      "ppp": "4.9436513805", 
+      "id": 148, 
+      "name": "Swaziland"
+    }, 
+    {
+      "code3": "TON", 
+      "code2": null, 
+      "ppp": "1.5879604857", 
+      "id": 149, 
+      "name": "Tonga"
+    }, 
+    {
+      "code3": "CAN", 
+      "code2": null, 
+      "ppp": "1.2995994800", 
+      "id": 150, 
+      "name": "Canada"
+    }, 
+    {
+      "code3": "KOR", 
+      "code2": null, 
+      "ppp": "910.0921277000", 
+      "id": 151, 
+      "name": "Korea, Rep."
+    }, 
+    {
+      "code3": "CAF", 
+      "code2": null, 
+      "ppp": "330.3346322561", 
+      "id": 152, 
+      "name": "Central African Republic"
+    }, 
+    {
+      "code3": "CHE", 
+      "code2": null, 
+      "ppp": "1.6647477020", 
+      "id": 153, 
+      "name": "Switzerland"
+    }, 
+    {
+      "code3": "CYP", 
+      "code2": null, 
+      "ppp": "0.7296262437", 
+      "id": 154, 
+      "name": "Cyprus"
+    }, 
+    {
+      "code3": "BIH", 
+      "code2": null, 
+      "ppp": "0.9056426665", 
+      "id": 155, 
+      "name": "Bosnia and Herzegovina"
+    }, 
+    {
+      "code3": "SGP", 
+      "code2": null, 
+      "ppp": "1.5232071657", 
+      "id": 156, 
+      "name": "Singapore"
+    }, 
+    {
+      "code3": "UZB", 
+      "code2": null, 
+      "ppp": "376.0697000000", 
+      "id": 157, 
+      "name": "Uzbekistan"
+    }, 
+    {
+      "code3": "ERI", 
+      "code2": null, 
+      "ppp": "6.7339850000", 
+      "id": 158, 
+      "name": "Eritrea"
+    }, 
+    {
+      "code3": "POL", 
+      "code2": null, 
+      "ppp": "2.0184367740", 
+      "id": 159, 
+      "name": "Poland"
+    }, 
+    {
+      "code3": "KWT", 
+      "code2": null, 
+      "ppp": "0.3297202160", 
+      "id": 160, 
+      "name": "Kuwait"
+    }, 
+    {
+      "code3": "GAB", 
+      "code2": null, 
+      "ppp": "439.6229285029", 
+      "id": 161, 
+      "name": "Gabon"
+    }, 
+    {
+      "code3": "EST", 
+      "code2": null, 
+      "ppp": "0.6107590840", 
+      "id": 162, 
+      "name": "Estonia"
+    }, 
+    {
+      "code3": "MWI", 
+      "code2": null, 
+      "ppp": "82.8495552731", 
+      "id": 163, 
+      "name": "Malawi"
+    }, 
+    {
+      "code3": "ESP", 
+      "code2": null, 
+      "ppp": "0.7917420410", 
+      "id": 164, 
+      "name": "Spain"
+    }, 
+    {
+      "code3": "IRQ", 
+      "code2": null, 
+      "ppp": "978.2312868521", 
+      "id": 165, 
+      "name": "Iraq"
+    }, 
+    {
+      "code3": "SLV", 
+      "code2": null, 
+      "ppp": "0.5958929615", 
+      "id": 166, 
+      "name": "El Salvador"
+    }, 
+    {
+      "code3": "MLI", 
+      "code2": null, 
+      "ppp": "300.5034067090", 
+      "id": 167, 
+      "name": "Mali"
+    }, 
+    {
+      "code3": "IRL", 
+      "code2": null, 
+      "ppp": "0.9742457350", 
+      "id": 168, 
+      "name": "Ireland"
+    }, 
+    {
+      "code3": "IRN", 
+      "code2": null, 
+      "ppp": "5854.8504457023", 
+      "id": 169, 
+      "name": "Iran, Islamic Rep."
+    }, 
+    {
+      "code3": "SLE", 
+      "code2": null, 
+      "ppp": "1396.2094122053", 
+      "id": 170, 
+      "name": "Sierra Leone"
+    }, 
+    {
+      "code3": "PAN", 
+      "code2": null, 
+      "ppp": "0.6889090011", 
+      "id": 171, 
+      "name": "Panama"
+    }, 
+    {
+      "code3": "SDN", 
+      "code2": null, 
+      "ppp": "1.8395777154", 
+      "id": 172, 
+      "name": "Sudan"
+    }, 
+    {
+      "code3": "SLB", 
+      "code2": null, 
+      "ppp": "5.3850980460", 
+      "id": 173, 
+      "name": "Solomon Islands"
+    }, 
+    {
+      "code3": "NZL", 
+      "code2": null, 
+      "ppp": "1.5959919110", 
+      "id": 174, 
+      "name": "New Zealand"
+    }, 
+    {
+      "code3": "JPN", 
+      "code2": null, 
+      "ppp": "121.9813738000", 
+      "id": 175, 
+      "name": "Japan"
+    }, 
+    {
+      "code3": "KGZ", 
+      "code2": null, 
+      "ppp": "21.9741618009", 
+      "id": 176, 
+      "name": "Kyrgyz Republic"
+    }, 
+    {
+      "code3": "UGA", 
+      "code2": null, 
+      "ppp": "1150.6897073752", 
+      "id": 177, 
+      "name": "Uganda"
+    }, 
+    {
+      "code3": "ARE", 
+      "code2": null, 
+      "ppp": "2.6957410000", 
+      "id": 178, 
+      "name": "United Arab Emirates"
+    }, 
+    {
+      "code3": "ARG", 
+      "code2": null, 
+      "ppp": "1.9835641391", 
+      "id": 179, 
+      "name": "Argentina"
+    }, 
+    {
+      "code3": "SWE", 
+      "code2": null, 
+      "ppp": "9.4816898940", 
+      "id": 180, 
+      "name": "Sweden"
+    }, 
+    {
+      "code3": "BHS", 
+      "code2": null, 
+      "ppp": "0.8998118490", 
+      "id": 181, 
+      "name": "Bahamas, The"
+    }, 
+    {
+      "code3": "BHR", 
+      "code2": null, 
+      "ppp": "0.3157982768", 
+      "id": 182, 
+      "name": "Bahrain"
+    }, 
+    {
+      "code3": "ARM", 
+      "code2": null, 
+      "ppp": "240.0794693198", 
+      "id": 183, 
+      "name": "Armenia"
+    }, 
+    {
+      "code3": "PNG", 
+      "code2": null, 
+      "ppp": "2.0598944166", 
+      "id": 184, 
+      "name": "Papua New Guinea"
+    }
+  ]
+}
