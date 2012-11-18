@@ -38,6 +38,7 @@ define("app", function(require) {
 
     // START HERE: Put your js code here
 
+    var country = $.getJSON('/country.json');
 
 
 
