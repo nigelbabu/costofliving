@@ -47,7 +47,7 @@ define("app", function(require) {
         countries = JSON.parse(countries_string);
     }
     else {
-        $.getJSON('/country.json', function(data) {
+        $.getJSON('country.json', function(data) {
             localStorage.setItem('country', JSON.stringify(data));
             countries = data;
         });
